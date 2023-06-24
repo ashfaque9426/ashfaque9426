@@ -1,23 +1,24 @@
-<h1 align="center">Hi 👋, I'm Ashfaq-Ul-Alim</h1>
-<h3 align="center">A passionate MERN Stack web-developer from Bangladesh</h3>
+### Hi there 👋, I am Ashfaq-Ul-Alim
+#### I am a MERN Stack Web-Developer
+![I am a MERN Stack Web-Developer](https://i.ibb.co/qD5P3gJ/banner-Img.jpg)
 
-- 🌱 I’m currently learning **next.js**
+I like to think. Whenever I face some Programming problems, I break them into smaller pieces then solve those smaller problems induvidually. After that I combine those individual pieces to solve the bigger puzzle. I also try to follow the DRY(Do Not Repeat Yourself) term.
 
-- 👯 I’m looking to collaborate on **github**
+Skills: EXPRESS / MONGODB / REACT / JS / HTML / CSS / BOOTSTRAP / TAILWIND
 
-- 💬 Ask me about **MERN stack Web-Development**
+- 🔭 I’m currently working on Programming Hero SCIC Group 
+- 🌱 I’m currently learning Next.js 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about MERN Stack Web-Development 
+- 📫 How to reach me: ashfaqsylvi9426@gmail.com 
 
-- 📫 How to reach me **ashfaqsylvi9426@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZX1N8Z45sO2knJAtiDYiVUzHaTUnmPrX/view?usp=sharing](https://drive.google.com/file/d/1ZX1N8Z45sO2knJAtiDYiVUzHaTUnmPrX/view?usp=sharing)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ashfaq Sylvi (ashfaque9426))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ashfaq Sylvi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ashfaq Sylvi)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ashfaq-sylvi-52a4a9278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashfaq sylvi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ashfaq.sylvi.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfaq sylvi" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaq Sylvi (ashfaque9426))](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashfaq Sylvi (ashfaque9426)&show_icons=true&count_private=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashfaq Sylvi (ashfaque9426))  
+
+![Profile views](https://gpvc.arturio.dev/Ashfaq Sylvi (ashfaque9426))  
