@@ -13,12 +13,18 @@ Skills: EXPRESS / MONGODB / REACT / JS / HTML / CSS / BOOTSTRAP / TAILWIND
 - 📫 How to reach me: ashfaqsylvi9426@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ashfaq Sylvi (ashfaque9426))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ashfaq Sylvi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ashfaq Sylvi)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashfaque9426)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashfaq-sylvi-52a4a9278/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashfaq.sylvi.3)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaq Sylvi (ashfaque9426))](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashfaque9426)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashfaq Sylvi (ashfaque9426)&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaque9426)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashfaq Sylvi (ashfaque9426))  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashfaque9426&show_icons=true&count_private=true)  
 
-![Profile views](https://gpvc.arturio.dev/Ashfaq Sylvi (ashfaque9426))  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashfaque9426)  
+
+![GitHub metrics](https://metrics.lecoq.io/ashfaque9426)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ashfaque9426)  
+
+![Profile views](https://gpvc.arturio.dev/ashfaque9426)  
