@@ -25,6 +25,4 @@ Skills: EXPRESS / MONGODB / REACT / JS / HTML / CSS / BOOTSTRAP / TAILWIND
 
 ![GitHub metrics](https://metrics.lecoq.io/ashfaque9426)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ashfaque9426)  
-
-![Profile views](https://gpvc.arturio.dev/ashfaque9426)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ashfaque9426)
