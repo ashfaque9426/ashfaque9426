@@ -7,7 +7,7 @@ I like to think. Whenever I face some Programming problems, I break them into sm
 Skills: EXPRESS / MONGODB / REACT / JS / HTML / CSS / BOOTSTRAP / TAILWIND
 
 - 🔭 I’m currently working on Programming Hero SCIC Group 
-- 🌱 I’m currently learning Next.js 
+- 🌱 I’m currently learning React.js and MongoDB deeply 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about MERN Stack Web-Development 
 - 📫 How to reach me: ashfaqsylvi9426@gmail.com 
